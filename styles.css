@@ -1,0 +1,46 @@
+a.navbar-brand  {
+  font-size: 1.5em;
+}
+
+.home  {
+  padding-top: 100px;
+  background-color: #dddddd;
+}
+.row.homenew  {
+  margin-left: 120px;
+  margin-right: 120px;
+}
+.homeimg1  {
+    padding-bottom: 20px;
+    margin-left: 150px;
+}
+h2 {
+  width: 80%;
+  font-family: 'Ubuntu', sans-serif;
+  line-height: 1.5 !important;
+  padding-top: 100px;
+}
+nav.navbar.fixed-top.navbar-expand-lg.navbar-dark.bg-dark  {
+  padding-left: 120px;
+  padding-right: 120px;
+  font-family: 'Itim', cursive;
+}
+.gallary {
+  background-color: #343a40;
+}
+.row.prod  {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+img.d-block.w-100 {
+  width: 10%;
+}
+
+.carousel-item  {
+  padding-right: 100px;
+  padding-left: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
